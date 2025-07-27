@@ -8,7 +8,7 @@
 
 ## 💼 Featured Projects
 
-### 🔊 [AI Chrome Extension for ADHD]([https://github.com/YOUR_USERNAME/YOUR_GRADUATION_PROJECT_REPO](https://github.com/maryamkhaled01/Google-Extension-For-Users-With-ADHD))
+### 🔊 [AI Chrome Extension for ADHD](https://github.com/maryamkhaled01/Google-Extension-For-Users-With-ADHD)
 A productivity-enhancing browser extension that detects user distraction using gaze tracking and summarizes content using FastSpeech2 TTS.  
 **Tech:** JavaScript · Python · Flask · FastSpeech2 · Railway · GazeTracking
 
